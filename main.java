@@ -7,7 +7,6 @@ app1.operate();
 app1.turnOff();
 
 System.out.println();
-
 Appliance app2 = new WashingMachine("Panasonic");
 app2.displayBrand();
 app2.turnOn();
